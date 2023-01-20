@@ -1,6 +1,7 @@
-# [React]
+# [React](https://reactjs.org/) &middot
 
-#ReactJS-api-challenge
+# ReactJS-api-challenge
+
 I made this reactjs web app in response to a challenge of how to pull data from an [External API](https://jsonplaceholder.typicode.com/posts) and style it using react-components (library for React & React Native) and deliver it to the user.
 
 ## The Challenge:
