@@ -1,4 +1,4 @@
-# [React](https://reactjs.org/) &middot
+# [React](https://reactjs.org/)
 
 # ReactJS-api-challenge
 
