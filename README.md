@@ -21,7 +21,7 @@ I made this reactjs web app in response to a challenge to pull data from an [Ext
 * AWS CLI : for deployement
 * AWS S3 bucket to host build files.
 
-Link to the demo app [demo-app](http://react-challenge-317765072010-daniel-andarge.s3-website-us-east-1.amazonaws.com/)
+Link to the [demo-app](http://react-challenge-317765072010-daniel-andarge.s3-website-us-east-1.amazonaws.com/)
 
 
 ### :black_nib: Author
